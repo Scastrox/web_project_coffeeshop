@@ -1,6 +1,6 @@
 # ☕ Triple Espresso Coffeeshop
 
-Bienvenido a la página web de Triple Espresso Coffeeshop, una cafetería donde combinamos la pasión por el café con la tecnología.
+Bienvenido a la página web de **Triple Espresso Coffeeshop**, una cafetería donde combinamos la pasión por el café con la tecnología.
 
 ## 🌐 Sobre el Proyecto
 
