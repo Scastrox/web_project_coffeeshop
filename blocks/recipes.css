@@ -3,7 +3,7 @@
   flex-direction: column;
   height: 100%;
   background-color: #0a2750;
-  background-image: url("/images/background_recipes.svg");
+  background-image: url("../images/background_recipes.svg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
