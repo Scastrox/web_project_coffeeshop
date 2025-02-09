@@ -1,6 +1,7 @@
 .header {
   display: flex;
   flex-direction: column;
+  position: relative;
   height: 100vh;
   min-height: 720px;
   max-height: 800px;
@@ -45,6 +46,8 @@
   position: absolute;
   right: 5px;
   top: 124px;
+  display: flex;
+  flex-direction: column;
 }
 
 .header__footer {
